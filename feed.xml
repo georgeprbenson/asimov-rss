@@ -5,7 +5,7 @@
 <link>https://press.asimov.com/</link>
 <description>Deep writing on big ideas in biotechnology. (Unofficial feed generated from press.asimov.com/articles.)</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 16 Oct 2026 01:08:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 01:27:22 +0000</lastBuildDate>
 <image><url>https://press.asimov.com/social/asimov-press-v1.png</url><title>Asimov Press</title><link>https://press.asimov.com/</link></image>
 <item>
 <title>Pre-Order Making the Modern Laboratory</title>
@@ -31,7 +31,7 @@
 <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
 <category>Updates</category>
 <dc:creator>Editors</dc:creator>
-<description>A third installment of articles that we'd like to publish across medicine, biosecurity, the environment, animal welfare and more.</description>
+<description>A third installment of articles that we’d like to publish across medicine, biosecurity, the environment, animal welfare and more.</description>
 </item>
 <item>
 <title>Great Leaps in Biological Theory</title>
@@ -40,7 +40,7 @@
 <pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
 <category>Long Reads</category>
 <dc:creator>Ulkar Aghayeva</dc:creator>
-<description>Two of biology's greatest theories completely predate direct experimental evidence. Tracing their origins could help us understand how to make the next ones.</description>
+<description>Two of biology’s greatest theories completely predate direct experimental evidence. Tracing their origins could help us understand how to make the next ones.</description>
 </item>
 <item>
 <title>On the Role of Theory in Biology</title>
@@ -49,7 +49,7 @@
 <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
 <category>Long Reads</category>
 <dc:creator>Ulkar Aghayeva</dc:creator>
-<description>History reveals that theory plays a generative role in the process of biological discovery itself.</description>
+<description>Biology is often seen as a primarily experimental science, with theory serving merely to generalize patterns from empirical data. But history reveals that theory plays a more generative role in the process of biological discovery itself.</description>
 </item>
 <item>
 <title>Asimov Press is Back</title>
@@ -94,7 +94,7 @@
 <pubDate>Mon, 06 Apr 2026 12:00:00 +0000</pubDate>
 <category>Long Reads</category>
 <dc:creator>Samuel Clamons</dc:creator>
-<description>A series of quantitative metaphors on the speeds of representative events in evolutionary biology.</description>
+<description>A series of quantitative metaphors on the speeds of representative events in evolutionary biology. The end of our three-part series.</description>
 </item>
 <item>
 <title>How to Build a Strep A Vaccine</title>
@@ -103,7 +103,7 @@
 <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
 <category>Long Reads</category>
 <dc:creator>Eva Amsen</dc:creator>
-<description>Several Strep A vaccine candidates are entering clinical trials, but phase 3 funding is the bottleneck.</description>
+<description>After decades of scientific and regulatory delays, several Strep A vaccine candidates are entering clinical trials. Without further funding for phase 3 studies, however, many will be hamstrung.</description>
 </item>
 <item>
 <title>That's All, for Now</title>
@@ -121,7 +121,7 @@
 <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
 <category>Long Reads</category>
 <dc:creator>Alvin Djajadikerta</dc:creator>
-<description>Why scaling AI won't automatically lead to paradigm shifts.</description>
+<description>Why scaling AI won’t automatically lead to paradigm shifts.</description>
 </item>
 <item>
 <title>Why Lab Coats are White</title>
@@ -148,7 +148,7 @@
 <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
 <category>Essay</category>
 <dc:creator>Brian Naughton</dc:creator>
-<description>A step-by-step guide to making de novo binders.</description>
+<description>A step-by-step guide to making de novo binders, by Brian Naughton.</description>
 </item>
 <item>
 <title>Why Are Viral Capsids Icosahedral?</title>
@@ -166,7 +166,7 @@
 <pubDate>Sat, 07 Mar 2026 12:00:00 +0000</pubDate>
 <category>Long Reads</category>
 <dc:creator>David Brzostowicki</dc:creator>
-<description>Bioarchaeologists identified a murdered medieval royal; now they're investigating other ancient deaths.</description>
+<description>Bioarchaeologists recently identified a murdered medieval royal. Now, they are trying to shed light on other ancient deaths.</description>
 </item>
 <item>
 <title>Working in Glass</title>
@@ -184,7 +184,97 @@
 <pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
 <category>Essay</category>
 <dc:creator>Ruxandra Teslo</dc:creator>
-<description>A critique of a snippet from Dario Amodei and Dwarkesh Patel's recent interview.</description>
+<description>A critique of a snippet from Dario Amodei and Dwarkesh Patel’s recent interview.</description>
+</item>
+<item>
+<title>A Visual Guide to DNA Sequencing</title>
+<link>https://press.asimov.com/articles/dna-sequencing</link>
+<guid isPermaLink="true">https://press.asimov.com/articles/dna-sequencing</guid>
+<pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
+<category>Long Reads</category>
+<dc:creator>Evan DeTurk</dc:creator>
+<description>How to “read” nucleic acids, from Sanger to nanopores.</description>
+</item>
+<item>
+<title>The Legibility Problem</title>
+<link>https://press.asimov.com/articles/legibility-problem</link>
+<guid isPermaLink="true">https://press.asimov.com/articles/legibility-problem</guid>
+<pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
+<category>Essay</category>
+<dc:creator>Matthew Carter</dc:creator>
+<description>What happens in a world where AIs make scientific discoveries that humans cannot understand?</description>
+</item>
+<item>
+<title>The Origins of Agar</title>
+<link>https://press.asimov.com/articles/agar</link>
+<guid isPermaLink="true">https://press.asimov.com/articles/agar</guid>
+<pubDate>Sun, 22 Feb 2026 12:00:00 +0000</pubDate>
+<category>Long Reads</category>
+<dc:creator>Corrado Nai</dc:creator>
+<description>First introduced into laboratories in 1881, agar remains indispensable as a culture medium.</description>
+</item>
+<item>
+<title>Baseline Drift</title>
+<link>https://press.asimov.com/articles/baseline-drift</link>
+<guid isPermaLink="true">https://press.asimov.com/articles/baseline-drift</guid>
+<pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+<category>Fiction</category>
+<dc:creator>Eliomer H. Kaas</dc:creator>
+<description>A eulogy to the reference human. Words by Eliomer H. Kaas.</description>
+</item>
+<item>
+<title>Scent, In Silico</title>
+<link>https://press.asimov.com/articles/scent</link>
+<guid isPermaLink="true">https://press.asimov.com/articles/scent</guid>
+<pubDate>Mon, 16 Feb 2026 12:00:00 +0000</pubDate>
+<category>Long Reads</category>
+<dc:creator>Taylor Rayne</dc:creator>
+<description>Once a primal instinct, olfaction is now being mapped, measured, and modeled by machines.</description>
+</item>
+<item>
+<title>Making the Vortex Mixer</title>
+<link>https://press.asimov.com/articles/vortex</link>
+<guid isPermaLink="true">https://press.asimov.com/articles/vortex</guid>
+<pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+<category>Essay</category>
+<dc:creator>Ella Watkins-Dulaney</dc:creator>
+<description>The forgotten story of an invention found in every biology lab.</description>
+</item>
+<item>
+<title>A Brief History of Xenopus</title>
+<link>https://press.asimov.com/articles/xenopus</link>
+<guid isPermaLink="true">https://press.asimov.com/articles/xenopus</guid>
+<pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+<category>Essay</category>
+<dc:creator>Matt Lubin</dc:creator>
+<description>From early experiments on fertility and embryonic development to becoming the first cloned eukaryote from an adult cell, Xenopus frogs have had an outsized influence on the life sciences.</description>
+</item>
+<item>
+<title>What It's Like To Be A Worm</title>
+<link>https://press.asimov.com/articles/sentience</link>
+<guid isPermaLink="true">https://press.asimov.com/articles/sentience</guid>
+<pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
+<category>Long Reads</category>
+<dc:creator>Ralph Stefan Weir</dc:creator>
+<description>Finding evidence of “sentience” is fraught, whether in a comatose patient, an animal, or a neural net.</description>
+</item>
+<item>
+<title>Metaphors for Biology: Time</title>
+<link>https://press.asimov.com/articles/metaphors-time</link>
+<guid isPermaLink="true">https://press.asimov.com/articles/metaphors-time</guid>
+<pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+<category>Essay</category>
+<dc:creator>Samuel Clamons</dc:creator>
+<description>A series of quantitative metaphors on the speeds of common events in molecular biology.</description>
+</item>
+<item>
+<title>Building Brains on a Computer</title>
+<link>https://press.asimov.com/articles/brains</link>
+<guid isPermaLink="true">https://press.asimov.com/articles/brains</guid>
+<pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
+<category>Long Reads</category>
+<dc:creator>Max Schons</dc:creator>
+<description>A roadmap for brain emulation models at the human scale. Words by Max Schons.</description>
 </item>
 </channel>
 </rss>
