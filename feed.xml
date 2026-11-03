@@ -5,8 +5,17 @@
 <link>https://press.asimov.com/</link>
 <description>Deep writing on big ideas in biotechnology. (Unofficial feed generated from press.asimov.com/articles.)</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 02 Nov 2026 22:20:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 20:07:30 +0000</lastBuildDate>
 <image><url>https://press.asimov.com/social/asimov-press-v1.png</url><title>Asimov Press</title><link>https://press.asimov.com/</link></image>
+<item>
+<title>Trying to Cure My Cystic Fibrosis</title>
+<link>https://press.asimov.com/articles/cystic-fibrosis</link>
+<guid isPermaLink="true">https://press.asimov.com/articles/cystic-fibrosis</guid>
+<pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+<category>Long Reads</category>
+<dc:creator>Jacob Witten</dc:creator>
+<description>I was born with a rare form of cystic fibrosis that leaves my lungs without working CFTR protein. My work—and my hope—for a cure rests on gene therapy.</description>
+</item>
 <item>
 <title>Pre-Order Making the Modern Laboratory</title>
 <link>https://press.asimov.com/articles/modern-lab</link>
@@ -266,15 +275,6 @@
 <category>Essay</category>
 <dc:creator>Samuel Clamons</dc:creator>
 <description>A series of quantitative metaphors on the speeds of common events in molecular biology.</description>
-</item>
-<item>
-<title>Building Brains on a Computer</title>
-<link>https://press.asimov.com/articles/brains</link>
-<guid isPermaLink="true">https://press.asimov.com/articles/brains</guid>
-<pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
-<category>Long Reads</category>
-<dc:creator>Max Schons</dc:creator>
-<description>A roadmap for brain emulation models at the human scale. Words by Max Schons.</description>
 </item>
 </channel>
 </rss>
